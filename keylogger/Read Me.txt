@@ -1,0 +1,7 @@
+I am not responsible for any damage/harm you do with this script.
+If you showcase this, you need to use my name: "Geeky Coder" for it. if you dont there will consequences.
+If you use this script, you agree with the terms above. Have fun!
+
+1. Run the python script
+2. All the keylogs will be saved in the log.txt file
+3. Press 'esc' to stop the keylogger.
